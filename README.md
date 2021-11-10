@@ -1,7 +1,7 @@
 # Enhanced-Networking-Infrastructure
 
 
-## Virtualization setup for a small-medium company.
+### Virtualization setup for a small-medium company.
 - VMWare vSphere ESXI
 - VMWare vSphere vCenter
 - vMotion (Live Migration) 
@@ -11,12 +11,12 @@
 - VMWare vSphere DPM
 
 
-## Diagrams
+### Diagrams
  
  - [Devices Diagram](./Diagrams/DevicesDiagram.pdf)
  - [Ap Diagram](./Diagrams/ApDiagram.pdf)
 
-## Images
+### Images
 
 - Server Rack Diagram 
  
