@@ -18,18 +18,34 @@ authentication where the administrator can decide which services and views can b
 - VMWare vSphere DRS
 - VMWare vSphere DPM
 
-
+ ### VCENTER
+ - HOST & CLUSTER
+ 
+ ![Screenshot](./Images/Host.jpg)
+ 
+ - STORAGE
+ 
+ ![Screenshot](./Images/Storage.jpg)
+ 
+ - NETWORK
+ 
+ ![Screenshot](./Images/Network.jpg)
+ 
+ 
 ### Diagrams
  
  - [Devices Diagram](./Diagrams/DevicesDiagram.pdf)
  - [Ap Diagram](./Diagrams/ApDiagram.pdf)
 
-### Images
+### Rack
 
 - Server Rack Diagram 
  
  ![Screenshot](./Images/rack.jpg)
  
- - Topology
+ ### Topology
+ - Topology Diagram
  
  ![Screenshot](./Images/topology.jpg)
+ 
+ 
