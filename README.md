@@ -31,7 +31,6 @@ authentication where the administrator can decide which services and views can b
  
  ![Screenshot](./Images/Network.jpg)
  
- 
 ### Diagrams
  
  - [Devices Diagram](./Diagrams/DevicesDiagram.pdf)
