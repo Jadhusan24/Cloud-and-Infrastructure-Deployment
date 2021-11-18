@@ -1,7 +1,7 @@
 # Enhanced-Networking-Infrastructure
 
 ### Introduction
-   Involved in the 2nd year Final Project of our Degree Program, Enhanced the Network Architecture/ VIrtualization and Solution for a Small-Medium Company with Advanced Technique andConcepts. Which was done through Apache Guamole to access high end pc to do Virtualization Practicals.
+   Involved in the 2nd year Final Project of our Degree Program, Enhanced the Network Architecture/ VIrtualization and Solution for a Small-Medium Company with Advanced Technique and Concepts. Which was done through Apache Guamole to access high end pc to do Virtualization Practicals.
 
 ### Summary
 
