@@ -9,7 +9,6 @@ The existing system implemented was in need to be upgraded to satisfy user requi
 authentication where the administrator can decide which services and views can be accessed to which user according to the organizations hierarchy.
 
 
-
 ### Virtualization setup for a small-medium company.
 - VMWare vSphere ESXI
 - VMWare vSphere vCenter
